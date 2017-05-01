@@ -33,6 +33,7 @@ class Modal {
   closeModal() {
     this.modal.removeClass("modal--is-visible");
   }
+
 }
 
 export default Modal;
